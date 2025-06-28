@@ -1,7 +1,7 @@
-binance
+python-binance
 pandas
 pandas_ta
 python-dotenv
-requests 
+requests
 cryptography
 aiohttp
